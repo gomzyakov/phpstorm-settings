@@ -1,0 +1,101 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="DependencyValidationManager">
+        <scope name="App sources" pattern="file:src//*||file:app//*||file:bootstrap//*||file:config//*||file:routes//*||file:artisan||file:.env*" />
+        <scope name="Database" pattern="file:database//*||file:migrations//*" />
+        <scope name="Resources (front-end)" pattern="file:public//*||file:resources//*||file:*bower*||file:*webpa*||file:*.js||file:package*" />
+        <scope name="Project tests" pattern="file:tests//*||file:phpunit*||file:*phpstan*" />
+        <scope name="CI, DI tools &amp; configs" pattern="file:*gitlab*.*||file:*scruti*||file:*travi*||file:.gitlab//*||file:.github//*||file:dep*//*||file:scripts.d//*||file:dep*" />
+        <scope name="Storage files" pattern="file:storage//*||file:tests//temp//*||file:tests//storage//*||file:coverage//*" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="App sources" color="1c4760" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="NamedScopeManager">
+        <order>
+          <scope name="App sources" />
+          <scope name="Database" />
+          <scope name="Resources (front-end)" />
+          <scope name="Project tests" />
+          <scope name="CI, DI tools &amp; configs" />
+          <scope name="Storage files" />
+        </order>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpAnalysisConfiguration" call_tree_analysis_depth="0">
+        <unchecked_exceptions>
+          <fqn value="\Error" />
+        </unchecked_exceptions>
+      </component>
+      <component name="PhpCodeSniffer">
+        <phpcs_settings>
+          <PhpCSConfiguration tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
+        </phpcs_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="kot" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="/usr/bin/php7.2" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.tslint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+      </component>
+      <component name="SharedFileColors">
+        <fileColor scope="App sources" color="1c4760" />
+        <fileColor scope="Database" color="5c5d1a" />
+        <fileColor scope="Resources (front-end)" color="58224c" />
+        <fileColor scope="Project tests" color="135137" />
+        <fileColor scope="CI, DI tools &amp; configs" color="402823" />
+        <fileColor scope="Storage files" color="Yellow" />
+      </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="/usr/share/dict" Dictionaries="0" />
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <last-edited>Storage files</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+              <order>
+                <scope name="App sources" />
+                <scope name="Database" />
+                <scope name="Resources (front-end)" />
+                <scope name="Project tests" />
+                <scope name="CI, DI tools &amp; configs" />
+                <scope name="Storage files" />
+              </order>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
