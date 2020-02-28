@@ -26,4 +26,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
 </application>
