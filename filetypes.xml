@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern="WikiArticleRepository" type="PHP" />
       <mapping pattern="builder" type="PHP" />
       <mapping pattern="build" type="PHP" />
       <mapping pattern="codesniffer" type="PHP" />
