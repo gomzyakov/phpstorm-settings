@@ -17,6 +17,7 @@
       <mapping pattern=".foo" type="PLAIN_TEXT" />
       <mapping pattern=".git-ftp-ignore" type="PLAIN_TEXT" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
+      <mapping pattern="ListRequestBuilder.php" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="5fde745d9a4e586d83070bd38f3e5ef35c2ed629" type="PLAIN_TEXT" />
