@@ -1,16 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
-    </phpcs_settings>
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="81a110dd-6c4b-407e-8cfa-669132218b68" name="PHP 7.2" home="/usr/bin/php7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter id="e6ec89a8-e050-410f-be10-43d5a5271ded" name="PHP 7.0" home="/usr/bin/php7.0" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
