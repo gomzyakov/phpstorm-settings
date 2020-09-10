@@ -6,6 +6,7 @@
       <mapping pattern="builder" type="PHP" />
       <mapping pattern="WikiArticleRepository" type="PHP" />
       <mapping pattern="build" type="PHP" />
+      <mapping pattern="WithRestrictionsInfo" type="PLAIN_TEXT" />
       <mapping pattern="5fde745d9a4e586d83070bd38f3e5ef35c2ed629" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
