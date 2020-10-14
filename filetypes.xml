@@ -30,6 +30,7 @@
       <mapping ext="sqlite-journal" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="deletethis" type="PLAIN_TEXT" />
+      <mapping ext="stpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
