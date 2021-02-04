@@ -11,6 +11,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern=".foo" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
@@ -18,7 +19,6 @@
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="APP_VERSION" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".git-ftp-include" type="PLAIN_TEXT" />
       <mapping pattern=".git-ftp-ignore" type="PLAIN_TEXT" />
@@ -31,6 +31,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="deletethis" type="PLAIN_TEXT" />
       <mapping ext="stpl" type="Smarty" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
