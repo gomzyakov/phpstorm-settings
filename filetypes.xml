@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="codesniffer" type="PHP" />
       <mapping pattern="builder" type="PHP" />
@@ -10,7 +11,6 @@
       <mapping pattern="5fde745d9a4e586d83070bd38f3e5ef35c2ed629" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern=".foo" type="PLAIN_TEXT" />
@@ -32,6 +32,7 @@
       <mapping ext="deletethis" type="PLAIN_TEXT" />
       <mapping ext="stpl" type="Smarty" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
